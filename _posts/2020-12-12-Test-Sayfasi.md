@@ -3,13 +3,13 @@ title: Başlık
 published: true
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+Normal **kalın**, _italik_, ~~üstüçizgili~~ or `vurgulu`.
 
-[Link to another page](another-page).
+[dış bağlantı](burayabağlantılinki).
 
-There should be whitespace between paragraphs.
+test test test test test test test test test 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+test test test test test test test test test test test test test test test test test test test test test test test 
 
 # [](#header-1)Header 1
 
@@ -17,9 +17,9 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ## [](#header-2)Header 2
 
-> This is a blockquote following a header.
+> alıntı.
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> alıntı metin
 
 ### [](#header-3)Header 3
 
@@ -40,19 +40,19 @@ end
 
 #### [](#header-4)Header 4
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   sıralanmamış liste
+*   sadsadasdad
+*   sadasdasdsadad
 
 ##### [](#header-5)Header 5
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+1.  sıralı liste
+2.  asdsadsadad
+3.  asdsadadadsadsad
 
 ###### [](#header-6)Header 6
 
-| head1        | head two          | three |
+| kolon        | kolon 2           | kolon 3 |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
@@ -63,21 +63,7 @@ end
 
 * * *
 
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
+### alt başlıklı liste:
 
 - level 1 item
   - level 2 item
@@ -93,32 +79,7 @@ end
   - level 2 item
 - level 1 item
 
-### Small image
 
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
+### görsel
 
 ![](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
