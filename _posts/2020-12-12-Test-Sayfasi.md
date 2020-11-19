@@ -1,5 +1,5 @@
 ---
-title: Sample Page
+title: Başlık
 published: true
 ---
 
