@@ -1,9 +1,9 @@
 ---
-title: Başlık
+title: Weking [Tool]
 published: true
 ---
 
-Normal **kalın**, _italik_, ~~üstüçizgili~~ or `vurgulu`.
+**weking** is open source malicious url checker tool. I developed with 'Python'.
 
 [dış bağlantı](burayabağlantılinki).
 
